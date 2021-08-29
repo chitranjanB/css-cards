@@ -1,0 +1,74 @@
+body {
+  background-image: linear-gradient(
+    to bottom right,
+    #9800fd,
+    #a011ff,
+    rgba(255, 0, 0, 0.678),
+    rgba(255, 0, 0, 0.521)
+  );
+}
+.avatar {
+  width: 120px;
+  height: 120px;
+  background-color: rgb(120, 120, 226);
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+.card {
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px 3px rgba(0, 0, 0, 0.1);
+}
+
+.info-text {
+  width: 280px;
+  margin: auto;
+  text-align: center;
+}
+
+.info-score {
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+  display: flex;
+  justify-content: space-around;
+}
+
+.score {
+  text-align: center;
+  font-size: larger;
+}
+
+.info-social {
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 40px;
+}
+
+.action-btns {
+  display: flex;
+
+  justify-content: space-around;
+}
+
+.msg-btn {
+  width: 120px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 25px;
+  color: white;
+  font-size: medium;
+}
+
+.flw-btn {
+  width: 120px;
+  padding: 10px;
+  text-align: center;
+  border-radius: 25px;
+  color: white;
+  font-size: medium;
+}
+
+.fab {
+  font-size: 30px;
+}
