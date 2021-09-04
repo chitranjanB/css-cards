@@ -4,7 +4,7 @@ body {
   box-sizing: border-box;
   font-family: "Roboto";
   font-size: 15px;
-  background-image: url("background.jpg");
+  background-image: url("/img/background.jpg");
 }
 
 .container {
@@ -41,15 +41,15 @@ body {
 }
 
 .card-header-1 {
-  background: url("img1.jpg");
+  background: url("/img/img1.jpg");
 }
 
 .card-header-2 {
-  background: url("img2.jpg");
+  background: url("/img/img2.jpg");
 }
 
 .card-header-3 {
-  background: url("img3.jpg");
+  background: url("/img/img3.jpg");
 }
 
 .card-content {
